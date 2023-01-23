@@ -6,7 +6,7 @@
 * [SOSL](./resources/ProcessAutomationAndLogic/SOSL.txt)
 * [DML](./resources/ProcessAutomationAndLogic/DML.txt)
 * [Apex classes](./resources/ProcessAutomationAndLogic/ApexClasses.txt)
-* [Apex triggres](./resources/ProcessAutomationAndLogic/ApexTriggers.txt)
+* [Apex triggers](./resources/ProcessAutomationAndLogic/ApexTriggers.txt)
 
 ## User Interface
 ## Test, Debugging
