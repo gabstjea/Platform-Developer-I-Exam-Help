@@ -1,0 +1,18 @@
+Future Methods
+Documentation: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_invoking_future_methods.htm?_ga=2.204401744.1340810653.1674484216-1334770197.1660755932
+Trailhead - https://trailhead.salesforce.com/content/learn/modules/asynchronous_apex/async_apex_future_methods
+
+Batch Apex
+Documentation: https://developer.salesforce.com/docs/atlas.en-us.242.0.apexcode.meta/apexcode/apex_batch_interface.htm
+Trailhead Module: https://trailhead.salesforce.com/content/learn/modules/asynchronous_apex/async_apex_batch
+
+Scheduled Apex
+Documentation: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_scheduler.htm?_ga=2.234285790.1340810653.1674484216-1334770197.1660755932
+Trailhead: https://trailhead.salesforce.com/content/learn/modules/asynchronous_apex/async_apex_scheduled
+API Reference -https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_methods_system_system.htm#apex_System_System_methods
+
+
+Queueable Apex
+Dcoumentation: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_queueing_jobs.htm?_ga=2.204932432.1340810653.1674484216-1334770197.1660755932
+Trailhead: https://trailhead.salesforce.com/content/learn/modules/asynchronous_apex/async_apex_queueable
+API reference - https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_methods_system_system.htm#apex_System_System_methods

@@ -1,0 +1,2 @@
+Trailhead: https://trailhead.salesforce.com/content/learn/modules/apex_database/apex_database_sosl
+Documentation: https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_sosl.htm

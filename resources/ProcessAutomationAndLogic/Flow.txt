@@ -1,0 +1,2 @@
+Trailhead: https://trailhead.salesforce.com/content/learn/modules/flow-basics?trail_id=build-flows-with-flow-builder
+Documenation: https://help.salesforce.com/s/articleView?id=sf.flow.htm&type=5

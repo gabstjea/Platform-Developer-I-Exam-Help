@@ -3,7 +3,7 @@
 This guide is meant to help individuals studying for the Platform Developer I Exam. This guide assumes the following:
 
 - Familiar with Salesforce ecosystem.
-- Have set up your trailhead account. 
+- Have set up your trailhead account.
 - Have VSCode Salesforce Extensions
 - Have the Salesforce CLI Installed
 - Have JDK version 17(Recommended),11,or 8
@@ -11,19 +11,19 @@ This guide is meant to help individuals studying for the Platform Developer I Ex
 
 The Guide contains the following:
 
-- We have set up a developer org folder which contains code samples on building in Salesforce. 
+- We have set up a developer org folder which contains code samples on building in Salesforce.
 
 - We have set up additional notes and topic explanations through code and diagrams.
 
-- We have set up links to trailheads and other Salesforce documentation as you go through the repository to understand the material. 
+- We have set up links to trailheads and other Salesforce documentation as you go through the repository to understand the material.
 
 
 
 ## Pre-work
 
-The exam is broken down to concepts by Salesforce. We have further broken the exam down to subtopics we feel are important to know to prepare for the exam. Understanding the concepts and how topics interact with each other will best prepare you for the exam. Doing while learning is always the best way to learn. 
+The exam is broken down to concepts by Salesforce. We have further broken the exam down to subtopics we feel are important to know to prepare for the exam. Understanding the concepts and how topics interact with each other will best prepare you for the exam. Doing while learning is always the best way to learn.
 
-We recommend on creating your own developer org and work on these topics locally on your machine. 
+We recommend on creating your own developer org and work on these topics locally on your machine.
 
 0. Create a Developer Org: [link](https://developer.salesforce.com/signup)
 
@@ -97,7 +97,8 @@ If you run until any issues authorizing an org to your local environment please 
 * [SOQL](./resources/ProcessAutomationAndLogic/SOQL.txt)
 * [SOSL](./resources/ProcessAutomationAndLogic/SOSL.txt)
 * [DML](./resources/ProcessAutomationAndLogic/DML.txt)
-* [Apex classes](./resources/ProcessAutomationAndLogic/ApexClasses.txt)
+* [Syncronous Apex](./resources/ProcessAutomationAndLogic/SyncApex.txt)
+* [Asyncronous Apex](./resources/ProcessAutomationAndLogic/AsyncApex.txt)
 * [Apex triggers](./resources/ProcessAutomationAndLogic/ApexTriggers.txt)
 
 ## User Interface: 25%
