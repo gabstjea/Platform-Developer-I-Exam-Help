@@ -80,16 +80,67 @@ If you run until any issues authorizing an org to your local environment please 
 
 ## Developer Fundamentals: 23%
 
+* [Salesforce Platform Basics](https://trailhead.salesforce.com/content/learn/modules/starting_force_com)
+    - [Create a Salesforce Object](https://trailhead.salesforce.com/content/learn/projects/customize-a-salesforce-object)
+    - [Data Modeling Basics](https://trailhead.salesforce.com/content/learn/modules/data_modeling)
+    - [Using Formulas and Validations](https://trailhead.salesforce.com/content/learn/modules/point_click_business_logic)
 * [Salesforce Multi-tenant Concepts and Framework]()
-* [Model View Controller Architecture]()
-* [Lightning Component Framework]()
-* [Governor Limits]()
-* [Clicks vs Code Scenarios]()
-* [Salesforce Datamodeling]()
+    - [Multi-tenant Concept](https://trailhead.salesforce.com/content/learn/modules/starting_force_com/starting_understanding_arch)
+    - [Lightning Experience Basics](https://trailhead.salesforce.com/content/learn/modules/lex_migration_introduction)
+    - [Lightning Experience Features](https://trailhead.salesforce.com/content/learn/modules/lex_migration_whatsnew)
+    - [Lightning Experience Customization](https://trailhead.salesforce.com/content/learn/modules/lex_customization?trail_id=lex_admin_implementation)
+    - [Lightning Experience Development](https://trailhead.salesforce.com/content/learn/modules/lex_dev_overview?trail_id=lex_dev)
+    
+    - [Lightning App Builder](https://trailhead.salesforce.com/content/learn/modules/lightning_app_builder)
+    - [What is the Lightning Component Framework?](https://developer.salesforce.com/docs/atlas.en-us.206.0.lightning.meta/lightning/intro_framework.html)
+
+
+* [Model View Controller Architecture](https://shreysharma.com/mvc-architecture/)
+    - [MVC Architecture in Salesforce](https://youtu.be/_n365oEeMwg)
+* [Quick Start: Apex](https://trailhead.salesforce.com/content/learn/projects/quickstart-apex)
+    - [Apex Basics and Database](https://trailhead.salesforce.com/content/learn/modules/apex_database)
+    - [Database & .NET Basics](https://trailhead.salesforce.com/content/learn/modules/database_basics_dotnet)
+    - [Data Security](https://trailhead.salesforce.com/content/learn/modules/data_security)
+    - [Apex Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm)
+    - Object Orientated Design with Apex
+* [Governor Limits](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+    - [Per-Transaction Apex Limits](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm#in_topic_per_transaction_section)
+    - [Set up Governor Limit Email Warnings](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_gov_limits_emails.htm)
+    - [Running Apex Within Governor Execution Limits](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_limits_tips.htm)
+    - Governor Limits Quiz
+
+
+* [Clicks vs Code Scenarios](https://help.salesforce.com/s/articleView?id=sf.process_which_tool.htm&type=5)
+    - [Flow Basics](https://trailhead.salesforce.com/content/learn/modules/flow-basics) 
+    - Invoking Apex Code From Flows
+    - Submitting a record for approval
+    - Sendng an email alert
+    - Launching another flow
+    - Sending an outbound message
+* [Salesforce Datamodeling](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/data_model.htm)
+    - Samples
+    - Samples
 * [Salesforce Datamodeling Relationships]()
-* [Importing and Exporting Data]()
-* [Important Apex Classes]()
-* [Dealing with Metadata]()
+    - Samples
+    - Samples
+    - External Ids
+    - Advanced Relationships
+* [Importing and Exporting Data](https://trailhead.salesforce.com/content/learn/projects/import-and-export-with-data-management-tools)
+    - [Data Loader](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/data_loader.htm)
+* Important Apex Classes
+    - [Schema Class](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_methods_system_schema.htm)
+    - [Database Class](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_methods_system_database.htm)
+    - [Metadata Class](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_class_Metadata_Metadata.htm)
+    - [System Class](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm)
+    - [SObject Class](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm)
+    - Note the exam tests on how to use various important Apex classes the above are just some of the few.
+
+* [Platform Events](https://trailhead.salesforce.com/content/learn/modules/platform_events_basics)
+    - [Build an Instant Notification App](https://trailhead.salesforce.com/content/learn/projects/workshop-platform-events)
+
+* [Dealing with Metadata](https://trailhead.salesforce.com/content/learn/modules/custom_metadata_types_dec)
+    - [Programmatic Development with Custom Metadata Types](https://trailhead.salesforce.com/content/learn/modules/custom_metadata_types_adv)
+
 
 
 ## Process Automation and Logic: 30%
